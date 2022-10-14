@@ -2,7 +2,9 @@
 title = "RED N GREEN";
 
 description = `
-[Tap]  Turn
+      [Tap]  Turn
+      
+Collect Green, avoid Red 
 `;
 
 characters = [
